@@ -58,7 +58,7 @@ public class PhillyCheeseSteak {
 
     public static int calculateLargePrime(int randomNumber) {
         System.out.println("Checking if " + randomNumber + " is a prime");
-        if(isPrime(randomNumber)) {
+        if(!isPrime(randomNumber)) {
             System.out.println("Not prime!");
         } else {
             System.out.println("Prime!");
