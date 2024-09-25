@@ -1,0 +1,2 @@
+javac PhillyCheeseSteak.java
+java PhillyCheeseSteak
